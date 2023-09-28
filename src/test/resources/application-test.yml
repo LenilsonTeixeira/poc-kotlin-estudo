@@ -1,0 +1,3 @@
+city:
+  api:
+    url: http://localhost:1111

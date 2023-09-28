@@ -1,0 +1,11 @@
+city:
+  api:
+    url: "https://run.mocky.io"
+
+cat:
+  api:
+    url: "https://brianiswu-cat-facts-v1.p.rapidapi.com"
+
+rapid-api:
+  authorization:
+    key: "690bab6106msh6abcdee030b9e39p1b4d9ajsnc7b297d55720"
